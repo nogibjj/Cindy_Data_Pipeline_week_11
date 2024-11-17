@@ -24,15 +24,20 @@ Cindy_Data_Pipeline_week_11/
 │   └── sql_query.py
 │
 ├── .gitignore
+├── Databricks_pipeline_notebook_extract.ipynb
+├── Databricks_pipeline_notebook_load_and_transform.ipynb
+├── Databricks_pipeline_notebook_query.ipynb
 ├── Dockerfile
 ├── LICENSE
 ├── Makefile
 ├── README.md
+├── grad-students.csv
 ├── main.py
 ├── repeat.sh
 ├── requirements.txt
 ├── setup.sh
 └── test_main.py
+
 ```
 
 ## Workflow Python Script:
